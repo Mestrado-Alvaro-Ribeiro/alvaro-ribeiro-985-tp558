@@ -5,6 +5,7 @@ Materiais desenvolvidos para a disciplina TP558.
 ## Seminários
 
 - [Seminário 1 — RF-DETR](seminar1/)
+- [Seminário 2 — RepViT](seminar2/)
 
 ## Licença
 
