@@ -8,6 +8,7 @@ Materiais desenvolvidos para a disciplina TP558.
 - [Seminário 2 — RepViT](seminar2/)
 - [Seminário 3 — HPO e AutoDL](seminar3/)
 - [Seminário 4 — D-FINE](seminar4/)
+- [Seminário 5 — Machine learning runtimes e otimizadores](seminar5/)
 
 ## Licença
 
